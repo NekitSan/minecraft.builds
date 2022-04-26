@@ -1,4 +1,4 @@
-const requestURL = "../builds/build_1.16.5_forge.json"; 
+const requestURL = "./builds/build_1.16.5_forge.json"; 
 let request = new XMLHttpRequest();
 
 renderHTML();
