@@ -1,0 +1,408 @@
+{
+    "main": {
+        "item": [
+            {
+                "id": 0,
+                "name": "xxxx",
+                "description": "xxxx",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "xxxx"
+            },
+            {
+                "id": 1,
+                "name": "Create",
+                "description": "Create предлагает множество инструментов и блоков для создания и декорации построек, а так же автоматизации. Новые элементы дадут игроку на выбор больше вариантов дизайна, обработка предметов будет происходить не в одном блоке, для этого потребуется много \"акторов\", работающих вместе.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/102865-create_.html"
+            },
+            {
+                "id": 2,
+                "name": "Create Crafts & Additions",
+                "description": "Create Crafts & Additions - это дополнение к моду Create, которое введет возможность совмещать энергию из ванильного Minecraft и мода Create. Что даст вам ещё больше возможностей взаимодействия с механизмами Create!",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/152858-create-crafts-additions.html"
+            },
+            {
+                "id": 3,
+                "name": "Create Confectionery",
+                "description": "Create Confectionery - дополнение к моду Create, которое введет возможность создания шоколада и разных сладких изделий. Все это вы сможете создавать с помощью механизмов из мода Create!",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/152856-create-confectionery.html"
+            },
+            {
+                "id": 4,
+                "name": "Create: Steam Powered",
+                "description": "Create: Steam Powered - это дополнение к моду Create, которое создано, чтобы добавить возможность выработке FE энергии из пара. Чтобы начать её вырабатывать, у вас будет возможность создать паровые двигатели, большие шестерни, маховики и много другое.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/152857-create-steam-powered.html"
+            },
+            {
+                "id": 5,
+                "name": "Create: Stuff Additions",
+                "description": "Аддон для мода Create. Он добавит снаряжение из новых материалов, среди которых будет три сета инструментов, портативную дрель, реактивный ранец (джетпак) позволяющий летать и латунный экзоскелет увеличивающий вашу силу, но при этом расходующий индикатор голода.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/145471-create-stuff-additions.html"
+            },
+            {
+                "id": 6,
+                "name": "Create Plus",
+                "description": "Мод добавляет шлемы с функцией Create Mod Goggle и ванильными параметрами брони. Это полезно, если вы хотите носить полную алмазную броню, но также хотите видеть статистику очков.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://www.kingminecraftmods.net/create-plus-mod/"
+            },
+            {
+                "id": 7,
+                "name": "More Create Stuffs",
+                "description": "Аддон для Create, который введет интеграцию с целым рядом других модов. Например, вы сможете обрабатывать руду create с помощью предметов из других модов. Это позволит совместить механики и организовать комфортную лично для вас игру.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/145566-more-create-stuffs.html"
+            },
+            {
+                "id": 8,
+                "name": "Create Deco",
+                "description": "Create Deco - дополнение для мода Create, которое введет в игру множество новых декоративных блоков и предметов. Все они будут сделаны в стиле основного мода, но сильно не отличающихся от ванильных.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/152859-create-deco.html"
+            },
+            {
+                "id": 9,
+                "name": "Create Gears",
+                "description": "Небольшой аддон для Create, который добавит шестерни, механические переключатели передач, а также цепные приводы в закрытом корпусе.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/148145-create-gears.html"
+            },
+            {
+                "id": 10,
+                "name": "Immersive Engineering",
+                "description": "Качественный индустриальный мод, основанный на реалистичных инструментах и машинах. Вместо светящейся красной пыли он предлагает использовать провода; вместо одного блока, который магически превращает руду в пыль, этот мод предлагает мультиблоковую (5x3x3) дробилку. Кроме того, мод обладает красивыми текстурами, добавляющими в игру шарм ретро-футуризма.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/27783-immersive-engineering.html"
+            },
+            {
+                "id": 11,
+                "name": "Immersive Petroleum",
+                "description": "Аддон для популярного индустриального мода Immersive Engineering, с которым в майнкрафт появятся механизмы для добычи, обработки и использования нефти.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 10
+                },
+                "link": "https://minecraft-inside.ru/mods/54206-immersive-petroleum.html"
+            },
+            {
+                "id": 12,
+                "name": "Engineer's Decor",
+                "description": "Маленькое декоративное дополнение для мода Immersive Engineering, которое добавит игру несколько блоков, которые помогут улучшить вид построек основного мода и придать им технологический шарм.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 10
+                },
+                "link": "https://minecraft-inside.ru/mods/89083-engineers-decor.html"
+            },
+            {
+                "id": 13,
+                "name": "Immersive Posts",
+                "description": "Мод Immersive Posts - дополнение которое добавляет более высокие опоры для линий передач мода Immersive Engineering, что позволит строить более реалистичные и удобные ЛЭП в вашем мире.С данным модом вы сможете построить ЛЭП любой высоты, ограничений нет, теперь провода не будут висеть слишком низко и мешать вашему обзору.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": 10
+                },
+                "link": "https://ru-minecraft.ru/mody-minecraft/58047-immersive-posts.html"
+            },
+            {
+                "id": 14,
+                "name": "Immersive Armors",
+                "description": "В вашем распоряжении будут доступны уникальные комплекты брони в около ванильной стилистике. Мод не станет добавлять скучную перерисованную броню, а сделает каждый набор особенным, имеющим не только оригинальный внешний вид, но и особенные эффекты, вроде отталкивания, шипов или даже режима берсерка.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/155994-immersive-armors.html"
+            },
+            {
+                "id": 15,
+                "name": "MrCrayfish’s Furniture",
+                "description": "Популярный мод на мебель в майнкрафт, который добавит большое количество разнообразной фурнитуры, например, появится: стол, стулья, диван, кресла, телевизор, компьютер и другие предметы.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/9764-mrcrayfishs-furniture-mod.html"
+            },
+            {
+                "id": 16,
+                "name": "Dynamic Surroundings",
+                "description": "Данный мод значительно переработает визуальную и звуковую составляющую, тем самым сделав майнкрафт реалистичнее, при этом не изменив игровую механику. Будут усовершенствованы осадки, переработан блок лавы, а в биомах появятся различные природные звуки.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/29323-dynamic-surroundings.html"
+            },
+            {
+                "id": 17,
+                "name": "AmbientSounds",
+                "description": "Удивительный мод, который введет в игру огромное количество природных звуков. Оценить новое звучание вы сможете не только в биомах, но и в пещерах, под водой, в аду и крае.",
+                "dependence": {
+                    "libs_id": 2,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/43934-ambientsounds.html"
+            },
+            {
+                "id": 18,
+                "name": "MineColonies",
+                "description": "Установив этот мод вы сможете основать свой собственный небольшой город, населенный жителями. В игре появятся блоки для быстрой постройки домов и множество мобов с самыми разными профессиями, от строителей и фермеров до охранников и алхимиков.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/9683-minecolonies-mod.html"
+            },
+            {
+                "id": 19,
+                "name": "Mowzie’s Mobs",
+                "description": "Mowzie’s Mobs добавит в ваш игровой мир атмосферных мобов, обладающих  уникальными трехмерными моделями, звуками и измененным поведением. В данный момент доступно восемь видов мобов.",
+                "dependence": {
+                    "libs_id": 3,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/12821-mowzies-mobs.html"
+            },
+            {
+                "id": 20,
+                "name": "GraveStone",
+                "description": "Теперь на месте смерти героя будут появляться могилы с головой и датой смерти, они будут хранить внутри себя весь утерянный инвентарь.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/25055-gravestone.html"
+            },
+            {
+                "id": 21,
+                "name": "Chisel 2",
+                "description": "Вторая версия мода Chisel, который добавляет стамеску для создания декоративных резных блоков.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/10745-chisel-2-mod.html"
+            },
+            {
+                "id": 22,
+                "name": "Chunk Animator",
+                "description": "Небольшой мод, который изменит анимацию появления чанков. Отныне они будут не резко появляться, а плавно вырастать из земли.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/21235-chunk-animator.html"
+            },
+            {
+                "id": 23,
+                "name": "Dynamic Lights",
+                "description": "Dynamic Lights добавит динамическое освещение в minecraft. Для активации мода, просто нажми кнопку \"L\". После активации предметы излучающие свет будут излучать его, даже если они находятся в вашей руке, например, вы сможете осветить себе путь, просто взяв факел в руки.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/8978-dynamic-lights-mod.html"
+            },
+            {
+                "id": 24,
+                "name": "Carry On",
+                "description": "Интересная модификация, которая позволит игроку переносить блоки с интерфейсом (печь, сундук, механизмы). Для этого достаточно зажать Shift и нажать правой кнопкой мыши по объекту с пустыми руками. В новых версиях мода, можно переносить не только блоки, но и животных.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/57857-carry-on.html"
+            },
+            {
+                "id": 25,
+                "name": "Antique Atlas",
+                "description": "Мод добавит в игру античный атлас - книгу с картой в старинном стиле, на которой можно посмотреть все посещенные места и использовать маркеры, для сохранения особо важных точек. Чтобы перемещаться по карте используйте стрелки на клавиатуре, а для изменения масштаба мышку или клавиши +/-.",
+                "dependence": {
+                    "libs_id": 4,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/8914-antique-atlas-mod.html"
+            },
+            {
+                "id": 26,
+                "name": "Morphing",
+                "description": "Теперь после убийства моба можно замаскироваться под него, и что немало важно, между коллекцией масок можно переключаться (для переключения используй клавиши Х и Ъ).",
+                "dependence": {
+                    "libs_id": 5,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/8923-morphing-mod.html"
+            },
+            {
+                "id": 27,
+                "name": "Macaw's Windows",
+                "description": "С Macaw's Windows в вашем майнкрафт появится 48 видов окон, которые будут отличаться между собой дизайном и размерами. В отличии от блоков стекла они будут выглядеть эстетичнее и к тому же их можно открывать.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/124689-macaws-windows.html"
+            },
+            {
+                "id": 28,
+                "name": "AppleSkin",
+                "description": "Модификация добавит вырезанные из AppleCore твики, которые покажут насколько насытит вас та или иная еда и визуализируют насыщение в интерфейсе голода.",
+                "dependence": {
+                    "libs_id": false,
+                    "mod_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/55336-appleskin.html"
+            }
+        ],
+        
+        "lib": [
+            {
+                "id": 0,
+                "name": "xxxx",
+                "description": "xxxx",
+                "link": "xxxx"
+            },
+            {
+                "id": 1,
+                "name": "Configured",
+                "description": "Простой и весьма удобный мод, который позволит менять конфигурацию модов прямо в меню forge, благодаря чему для изменения конфиг-файла мода вам не потребуется каждый раз перезапускать майнкрафт. Вы сможете изменять клиентскую, общую и серверную конфигурацию для любых модов, как это было в старых версиях forge.",
+                "link": "https://minecraft-inside.ru/mods/154790-configured.html"
+            },
+            {
+                "id": 2,
+                "name": "CreativeCore",
+                "description": "Дополнение к игре, необходимое для работы некоторых модов. Например, для LittleTiles.",
+                "link": "https://minecraft-inside.ru/mods/14214-creativecore.html"
+            },
+            {
+                "id": 3,
+                "name": "GeckoLib",
+                "description": "Движок прямой кинематики для Minecraft, он позволяет переносить анимации в игру и использовать их в автоматическом режиме. С помощью GeckoLib можно экспортировать анимации из Blockbench и применять их к объектам в игровом мире.",
+                "link": "https://minecraft-inside.ru/mods/146483-geckolib.html"
+            },
+            {
+                "id": 4,
+                "name": "Cloth Config API",
+                "description": "Библиотека, позволяющая другим майнкрафт модам использовать API для работы с интерфейсом настроек.",
+                "link": "https://minecraft-inside.ru/mods/146382-cloth-config-api.html"
+            },
+            {
+                "id": 5,
+                "name": "iChunUtil",
+                "description": "iChun Util  это дополнение к игре, необходимое для работы некоторых модов.",
+                "link": "https://minecraft-inside.ru/mods/9092-ichun-util-mod.html"
+            }
+        ],
+        
+        "modific": [
+            {
+                "id": 0,
+                "name": "xxxx",
+                "description": "xxxx",
+                "dependence": {
+                    "libs_id": false,
+                    "modific_id": false
+                },
+                "link": "xxxx"
+            },
+            {
+                "id": 1,
+                "name": "Just Enough Items (JEI)",
+                "description": "Этот мод является аналогом NEI и TMI, с его помощью вы сможете получить игровые предметы и посмотреть рецепты предметов и блоков из майнкрафт.",
+                "dependence": {
+                    "libs_id": 1,
+                    "modific_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/24358-just-enough-items.html"
+            },
+            {
+                "id": 2,
+                "name": "Hwyla",
+                "description": "Мод является форком популярной модификации WAILA для новых версий майнкрафт. После установки при наведении на блок/моба появится всплывающее окно с его названием, к какому моду принадлежит и полезная информация о нем.",
+                "dependence": {
+                    "libs_id": false,
+                    "modific_id": false
+                },
+                "link": "https://minecraft-inside.ru/mods/45372-hwyla.html"
+            },
+            {
+                "id": 3,
+                "name": "Waila Harvestability",
+                "description": "Это дополнение добавит в подсказки Waila информацию о том, можно ли добыть блок, уровень добычи и какой инструмент будет эффективен при добыче.",
+                "dependence": {
+                    "libs_id": false,
+                    "modific_id": 2
+                },
+                "link": "https://minecraft-inside.ru/mods/36377-waila-harvestability.html"
+            },
+            {
+                "id": 4,
+                "name": "Just Enough Resources",
+                "description": "Этот аддон для Just Enough Items, даст вам полезную информацию  о дропах с мобов и растений, генерации руд, возможном луте в данжах.",
+                "dependence": {
+                    "libs_id": false,
+                    "modific_id": 1
+                },
+                "link": "https://minecraft-inside.ru/mods/31664-just-enough-resources.html"
+            },
+            {
+                "id": 5,
+                "name": "Block Drops",
+                "description": "Мод показывающий, что дропает (роняет) тот или иной блок или предмет в игре.",
+                "dependence": {
+                    "libs_id": false,
+                    "modific_id": 1
+                },
+                "link": "https://ru-minecraft.ru/mody-minecraft/49977-block-drops.html"
+            },
+            {
+                "id": 6,
+                "name": "Just Enough Effect Descriptions",
+                "description": "Дополнение для JEI которое реализует показ описания действия эффекта, в том числе то, которое наложено на игрока, а так же показывает какие предметы или зелья накладывают данный эффект.",
+                "dependence": {
+                    "libs_id": false,
+                    "modific_id": 1
+                },
+                "link": "https://ru-minecraft.ru/mody-minecraft/70609-jeed.html"
+            }
+        ]
+    }
+}
