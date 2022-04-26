@@ -1,6 +1,9 @@
 const requestURL = "../builds/build_1.16.5_forge.json"; 
 let request = new XMLHttpRequest();
 
+renderHTML();
+// switchMenu();
+
 request.open('GET', requestURL);
 request.responseType = 'json';
 request.send();

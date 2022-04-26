@@ -1,0 +1,86 @@
+*, *::after, *::before {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+
+ul, li, ol {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+}
+
+body {
+  color: #212121;
+}
+
+.header {
+  position: relative;
+  width: 100%;
+  height: 50px;
+}
+
+.header__menu {
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 99;
+}
+
+.menu {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 100vw;
+  background-color: #4f4f4f;
+}
+
+.menu__item {
+  line-height: 40px;
+  padding: 0 10px;
+  color: #fff;
+  cursor: pointer;
+  user-select: none;
+}
+
+.menu__item:hover {
+  color: #b8d88e;
+}
+
+.collection {
+  padding: 0 10px;
+}
+
+.collection .mod {
+  display: grid;
+  grid-template-columns: 100%;
+  gap: 10px;
+}
+
+.collection .mod__item {
+  padding: 10px;
+  padding-top: 0;
+}
+
+.collection .mod__title {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  gap: 30px;
+}
+
+.collection .mod__id {
+  padding: 10px;
+  font-size: 24px;
+}
+
+.collection .mod__name {
+  font-size: 22px;
+  color: #212121;
+}
+
+.collection .mod__name:hover {
+  color: #83A752;
+}
