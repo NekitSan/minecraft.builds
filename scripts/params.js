@@ -21,9 +21,9 @@ class RenderItem extends Render
         let temp = "";
         
         if(item.dependence.libs_id)
-            temp = "<div class='mod__dependence'>Требуется библиотека: " + item.dependence.libs_id + "</div>";
+            temp += "<div class='mod__dependence'>Требуется библиотека: " + item.dependence.libs_id + "</div>";
         if(item.dependence.mod_id)
-            temp = "<div class='mod__dependence'>Требуется мод: " + item.dependence.mod_id + "</div>";
+            temp += "<div class='mod__dependence'>Требуется мод: " + item.dependence.mod_id + "</div>";
 
         return `<div class="mod__item">
                     <div class="mod__title">
